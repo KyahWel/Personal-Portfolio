@@ -133,7 +133,7 @@ hr.style-b {
     font-family: "Century Gothic";
     border-radius: 10px;
     border-width: 0;
-    width: 20%;
+    width: 5rem;
     padding: 1%;
     margin-top: 10px;
     opacity: 0.6;
@@ -363,7 +363,7 @@ hr.style-b {
     }
     .navbar-nav a{
         text-align: center;
-        font-size: .8rem;
+        font-size: 1rem;
         padding: 0;
         padding-left: .3rem;
     }
