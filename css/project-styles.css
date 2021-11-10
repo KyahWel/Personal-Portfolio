@@ -199,7 +199,7 @@ hr.style-b {
 
 @media screen and (max-width:559px) {
     .outer{
-        width: 20rem;
+        width: 24rem;
     }
     .inner h1{
         font-size: 2rem;
@@ -272,7 +272,7 @@ hr.style-b {
     }
 }
 
-@media screen and (max-width:419px) {
+@media screen and (max-width:420px) {
     .outer{
         width: 15rem;
     }
@@ -312,7 +312,7 @@ hr.style-b {
     }
 }
 
-@media screen and (max-width:321px) {
+@media screen and (max-width:322px) {
     .main-container{
         flex-direction: column;
         padding-left: .6rem;

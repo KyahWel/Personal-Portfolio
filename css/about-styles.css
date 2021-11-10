@@ -108,6 +108,10 @@ hr.style {
     .header-container{
         font-size: 5.7rem;
     }
+    .content-container{
+        font-size: 2rem;
+        padding-right: 2rem;
+    }
 }
 
 @media screen and (max-width:1091px){
@@ -117,6 +121,10 @@ hr.style {
 
     .picture-settings{
         width: 22rem;
+    }
+    .content-container{
+        font-size: 2rem;
+        padding-right: 2rem;
     }
 }
 
@@ -242,6 +250,15 @@ hr.style {
     .container-pic{
         padding-left: 0rem;
     }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-nav a{
+        text-align: center;
+        font-size: 1.3rem;
+        padding: 0;
+        padding-left: 1rem;
+    }
 }
 
 @media screen and (max-width:495px) {
@@ -274,6 +291,15 @@ hr.style {
     }
     .container-pic{
         padding-left: 0rem;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-nav a{
+        text-align: center;
+        font-size: 1.3rem;
+        padding: 0;
+        padding-left: 1rem;
     }
 }
 
@@ -308,8 +334,14 @@ hr.style {
     .container-pic{
         padding-left: 0rem;
     }
-    .navbar-nav {
+    .navbar-nav{
         text-align: center;
+    }
+    .navbar-nav a{
+        text-align: center;
+        font-size: 1.3rem;
+        padding: 0;
+        padding-left: 1rem;
     }
 }
 
@@ -352,7 +384,7 @@ hr.style {
     }
     .navbar-nav a{
         text-align: center;
-        font-size: 1.3rem;
+        font-size: 1rem;
         padding: 0;
         padding-left: 1rem;
     }
