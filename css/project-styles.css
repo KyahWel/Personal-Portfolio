@@ -228,7 +228,11 @@ hr.style-b {
     }
 }
 @media screen and (max-width:482px) {
- 
+    
+    .outer{
+        width: 20rem;
+    }
+    
     .main-container{
         flex-direction: column;
         margin-left: 1.4rem;
